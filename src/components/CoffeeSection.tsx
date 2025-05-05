@@ -1,3 +1,4 @@
+
 import coffeeHero from '../assets/coffee-hero-section.png'; // Adjust path if needed
 
 function CoffeeSection() {
